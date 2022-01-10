@@ -5,7 +5,6 @@ API Methods
 Retrieve Inventory
 ==================
 
-.. sourcecode:: https
 
 +------------------------+------------------------------------------------------+
 | Methods                | Inventory (HTTP METHOD: GET)                         |
