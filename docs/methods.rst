@@ -43,8 +43,8 @@ Category
 Inventory Type
 ==============
 **Status and Explanation**
-     - N : New Auto
-     - U : Used Auto
+     - N : New
+     - U : Used
      
 Get Inventory Details
 =====================
