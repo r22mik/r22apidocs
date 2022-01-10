@@ -10,7 +10,7 @@ Retrieve all Vehicles
 +------------------------+------------------------------------------------------+
 | Methods                | Inventory (HTTP METHOD: GET)                         |
 +------------------------+------------------------------------------------------+
-| Return Type            | JSON string of all vehicles                          |
+| Return Type            | JSON string of all inventory                          |
 +------------------------+------------------------------------------------------+
 | Example                | https://data-service.r22dev.com/partner/inventories  |
 +------------------------+------------------------------------------------------+
