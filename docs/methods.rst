@@ -2,15 +2,15 @@
 API Methods
 =============
 
-Retrieve all Vehicles
-=====================
+Retrieve Inventory
+==================
 
 .. sourcecode:: https
 
 +------------------------+------------------------------------------------------+
 | Methods                | Inventory (HTTP METHOD: GET)                         |
 +------------------------+------------------------------------------------------+
-| Return Type            | JSON string of all inventory                          |
+| Return Type            | JSON string of all inventory                         |
 +------------------------+------------------------------------------------------+
 | Example                | https://data-service.r22dev.com/partner/inventories  |
 +------------------------+------------------------------------------------------+
@@ -20,9 +20,9 @@ Retrieve all Vehicles
 +--------------+----------+-----------------------------------------------------+
 | Token        |   YES    | An access token is required for all API requests    |
 +--------------+----------+-----------------------------------------------------+
-| Pagination   |   NO     |                                                     |
+| Pagination   |   NO     | Get specific page                                   |
 +--------------+----------+-----------------------------------------------------+
-| Page Size    |   NO     | Number of record per page                           |
+| Page Size    |   NO     | Number of records per page                          |
 +--------------+----------+-----------------------------------------------------+
 
 Sample Usage
@@ -39,6 +39,7 @@ Category
 **Status and Explanation**
      - 1001 : Automotive
      - 1002 : Motorcycles
+     - 1013 : Parts
      
 Inventory Type
 ==============
