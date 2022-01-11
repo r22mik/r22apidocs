@@ -2,8 +2,6 @@
 API Endpoints
 =============
 
-.. sourcecode:: https
-
 +------------------------+------------------------------------------------------+
 | Production Environment | https://data-service.r22dev.com/partner/inventories  |
 +------------------------+------------------------------------------------------+
