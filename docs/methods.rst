@@ -45,10 +45,6 @@ Inventory Type
 **Status and Explanation**
      - N : New
      - U : Used
-     
-Get Inventory Details
-=====================
-To get inventory details, use **inventory.details.{API field name}** as an example.
 
 API Response (for one unit)
 ===========================
