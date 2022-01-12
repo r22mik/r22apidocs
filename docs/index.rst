@@ -1,5 +1,5 @@
 R22 API Documentation
-===================================
+======================
 
 Welcome to **R22's API Documentation**. 
 
