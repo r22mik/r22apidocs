@@ -11,7 +11,7 @@ API Endpoints
 | URL Example            | http://data-service.r22dev.com/partner/inventories?  |
 |                        | pageSize=150&page=2                                  |
 +------------------------+------------------------------------------------------+
-..note:: The default page size is 50
+.. note:: The default page size is 50
 
 cURL
 ====
